@@ -47,4 +47,5 @@ kubectl apply -f service-1.yaml
 13. Reload application URL, now it should point to Green environment.
 14. If there is a new change your can repeat the process.
 15. Add if any
+16.
 Done!!!
